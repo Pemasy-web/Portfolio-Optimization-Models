@@ -1,2 +1,3 @@
 # Portfolio-Optimization-Models
-senior project 
+This repository contains all code, data samples, and result outputs for my senior research project on forecasting stock returns using an Artificial Neural Network (ANN) and constructing optimized portfolios using Mean-Variance (MV) and Black-Litterman (BL) models. 
+All Jupyter notebooks are provided with executed outputs, allowing readers to view the results directly without rerunning. For those who wish to reproduce or extend the analysis, sample data files are included, and instructions are provided in each notebook for running on your local environment or Google Colab. This repository is intended to support transparency, reproducibility, and ongoing learning for anyone interested in quantitative finance, machine learning, and portfolio optimization.
